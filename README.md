@@ -1,13 +1,13 @@
 # sc2AI
 
-Initial intentions and goals.
+**Initial intentions and goals:**
 Out of a love for real-time strategy games. Starcraft 2 has always been a game that I love. Although the game has gradually fallen, but he is still the ceiling of real-time strategy games. 2019 Google speaks of research AI environment turned to StarCraft 2 this game, and research Alphastar and Deepmind with amazing ability to beat almost 90% of the players, become a great hit in the field of AI at that time. Meanwhile with the development of AI technology. These are the reasons why I wrote the code for StarCraft 2. Also the goal of writing this code is to take my passion for StarCraft 2 and make a Bot, while incorporating reinforcement learning to make my own intelligent Bot.
 
-Current phase.
+**Current phase:**
 The code is not easy to write due to the overly complex nature of the game. The current Bot can beat Very Hard StarCraft 2's own computer. But Bot temporary strategy single, mainly has been the main development. If you encounter Rush tactics. My Bot is very easy to beat.
 For the time being, I have not used reinforcement learning to let Bot judge various response strategies in complex situations by itself.
 
-Future goals.
+**Future goals:**
 I will continue to develop Bot's strategy, while reinforcement learning will be introduced. I hope I can make my own AI.
 
 ----------
