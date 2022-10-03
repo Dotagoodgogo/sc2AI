@@ -10,7 +10,7 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 Future goals.
 I will continue to develop Bot's strategy, while reinforcement learning will be introduced. I hope I can make my own AI.
 
-
+----------
 
 初衷和目标：
 出于对即时战略类的游戏的热爱。星际争霸2一直是我热爱的一款游戏。虽然游戏已经逐渐没落，但是他还是即时战略类游戏的天花板。2019年谷歌讲研究AI环境转向星际争霸2这款游戏，并且研究出了Alphastar 和 Deepmind 以惊人的能力几乎可以击败九成玩家，成为当时AI领域很大的热门。同时随着AI科技的发展。这些是我写星际2代码的原因。同时写这代码的目标是希望把我对星际争霸2的热情制作成一个Bot,同时融入强化学习来制作出我自己的智能Bot.
