@@ -1,4 +1,6 @@
 # sc2AI
+[![video](https://youtu.be/AA731G7x-Ak)
+
 
 ## Demo_presentation
 
