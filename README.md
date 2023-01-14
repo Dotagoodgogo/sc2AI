@@ -1,11 +1,11 @@
 # sc2AI
 
-1. [Initial intentions and goals](#Initial intentions and goals)
+1. [Initial intentions and goals](#Initial_intentions_and_goals)
 2. [current phase](##chapter-2)
 3. [Chapter 3](#chapter-3)
 
 
-## Initial intentions and goals:
+## Initial_intentions_and_goals:
 Because addiction for real-time strategy games. Starcraft 2 has always been a game that I love. Although the game has gradually fallen, but he is still the ceiling of real-time strategy games. 2019 Google speaks of research AI environment turned to StarCraft 2 this game, and research Alphastar and Deepmind with amazing ability to beat almost 90% of the players, become a great hit in the field of AI at that time. Meanwhile with the development of AI technology. These are the reasons why I wrote the code for StarCraft 2. Also the goal of writing this code is to take my passion for StarCraft 2 and make a Bot, while incorporating reinforcement learning to make my own intelligent Bot.
 
 ## Current phase:
