@@ -1,8 +1,14 @@
 # sc2AI
 
 ## Demo_presentation
-[![video](![mq2](https://user-images.githubusercontent.com/87624521/212441833-65debbaf-9a50-4fb5-937d-5f21204a2a90.jpg)
-)](https://www.youtube.com/watch?v=AA731G7x-Ak)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/87624521/212442087-ce60b467-91fa-4a6b-8564-b042ab149618.jpg" width="320" height="240" alt="example">
+  <br>
+  <br>
+  <video width="320" height="240" controls>
+    <source src="https://youtu.be/AA731G7x-Ak" type="video/mp4">
+  </video>
+</p>
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
 2. [Current Phase](#Current_Phase)
