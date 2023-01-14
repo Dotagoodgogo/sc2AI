@@ -1,7 +1,7 @@
 # sc2AI
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
-2. [current phase](##chapter-2)
+2. [Current Phase](#Curren_Phase)
 3. [Chapter 3](#chapter-3)
 
 
