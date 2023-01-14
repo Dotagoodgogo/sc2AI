@@ -1,9 +1,8 @@
 # sc2AI
 
 ## Demo_presentation
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/AA731G7x-Ak" type="video/mp4">
-</video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AA731G7x-Ak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
 2. [Current Phase](#Current_Phase)
