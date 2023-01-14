@@ -1,7 +1,7 @@
 # sc2AI
 
 ## Demo_presentation
-https://www.youtube.com/watch?v=AA731G7x-Ak
+[![video](https://img.youtube.com/vi/AA731G7x-Ak/0.jpg)](https://www.youtube.com/watch?v=AA731G7x-Ak)
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
 2. [Current Phase](#Current_Phase)
