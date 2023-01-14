@@ -2,7 +2,7 @@
 
 ## Demo_presentation
 
-<a href="https://www.youtube.com/watch?v=AA731G7x-Ak">Starcraft II bot Presesntation on Youtube</a>
+<a href="https://www.youtube.com/watch?v=AA731G7x-Ak">Starcraft II Bot Presesntation on Youtube</a>
 
 ----------------------------------------
 
