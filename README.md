@@ -1,5 +1,8 @@
 # sc2AI
-[![video](https://youtu.be/AA731G7x-Ak)
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="https://youtu.be/AA731G7x-Ak">
+</video>
+
 
 
 ## Demo_presentation
