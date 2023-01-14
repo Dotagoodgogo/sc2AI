@@ -1,6 +1,6 @@
 # sc2AI
 
-1. [Initial intentions and goals](##Initial intentions and goals)
+1. [Initial intentions and goals](#Initial intentions and goals)
 2. [Chapter 2](#chapter-2)
 3. [Chapter 3](#chapter-3)
 
