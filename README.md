@@ -2,7 +2,9 @@
 
 ## Demo_presentation
 
-<a href="https://www.youtube.com/watch?v=AA731G7x-Ak">Watch the video on YouTube</a>
+<a href="https://www.youtube.com/watch?v=AA731G7x-Ak">Starcraft II bot Presesntation on Youtube</a>
+
+----------------------------------------
 
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
