@@ -1,4 +1,4 @@
-<p align="center"><big>SC2AI</big></p> 
+<p align="center"><h1>SC2AI</h1></p> 
 
 
 <p align="center">
