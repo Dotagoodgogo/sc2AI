@@ -1,5 +1,10 @@
 # sc2AI
 
+<p align="center">
+  <img src="![starcraft2](https://user-images.githubusercontent.com/87624521/212523904-45972460-5add-4a82-b407-03a40f383894.jpg)
+" alt="StarcraftII">
+</p>
+
 ## Demo_presentation
 
 <a href="https://www.youtube.com/watch?v=AA731G7x-Ak">Starcraft II Bot Presesntation on Youtube</a>
