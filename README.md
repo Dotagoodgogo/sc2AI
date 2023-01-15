@@ -63,13 +63,13 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 **Strategy**:
 * In StarCraft 2, opponents may employ a variety of different opening strategies. Some common opening strategies include:
 
-Rush: Attacking the opponent early on by producing units and building bases quickly in order to gain resource and control advantages.
+  * Rush: Attacking the opponent early on by producing units and building bases quickly in order to gain resource and control advantages.
 
-Early Expansion: Securing an early expansion to gain resource advantages and more production capabilities.
+  * Early Expansion: Securing an early expansion to gain resource advantages and more production capabilities.
 
-Harassment: Launching small-scale attacks to disrupt the opponent's production and resource gathering.
+  * Harassment: Launching small-scale attacks to disrupt the opponent's production and resource gathering.
 
-Defense: Building fortifications and reinforcing defensive units to hold off opponent's attacks.
+  * Defense: Building fortifications and reinforcing defensive units to hold off opponent's attacks.
 
 
 
