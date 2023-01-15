@@ -15,7 +15,7 @@
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
 2. [Current Phase](#Current_Phase)
-3. [Bot in details](#Bot_in_details)
+3. [Bot in details](#Bot_in_deatils)
 4. [Future goals](#Future_goals)
 
 
