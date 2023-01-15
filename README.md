@@ -87,8 +87,12 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 * Army should contains more units in order to face different opponenets
 * Each unit should figure their own combat modes and enhance combat abilities. For example:
   * My demo:
+
+
     <img src="https://user-images.githubusercontent.com/87624521/212525936-9db1b5fa-6fae-4258-ab8d-8e705f5b2711.gif" alt="gif1_description" style="display: inline-block;">
   * Nice example:
+
+
      <img src="https://user-images.githubusercontent.com/87624521/212525974-29f6151f-7467-481a-a70e-e94d34490d3c.gif" alt="gif1_description" style="display: inline-block;">
 
  
