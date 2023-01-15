@@ -42,6 +42,9 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 **Army**:
 * The main configuration of the main army is marines,tanks and medivc/
 * Army will attack when supply reachs 180.
+* Units can detect enemy and defend.
+<img src="https://user-images.githubusercontent.com/87624521/212524601-9fe26a46-289f-4700-acd3-51d8547e9c73.gif" alt="gif1_description" style="display: inline-block;">
+
 * All army will be sent to a rally point(fixed).
 * The first repear can scout enemies early stages and can retreat when threat is closed.
 <img src="https://user-images.githubusercontent.com/87624521/212524439-35c4e436-61b5-4e87-87dc-147c3f6778e8.gif" alt="gif1_description" style="display: inline-block;">
@@ -50,7 +53,7 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
 * Tanks will be sieged when threat is closing.
 * Marines will use stimpacks when they get enough HP.
-* Medivic will auto follow the front units and will retreat when they get attack.Healing is automatic.
+* Medivic will auto follow the front units and will retreat when they get attack. Healing is automatic.
 
 
 ## Future_goals:
