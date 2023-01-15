@@ -35,17 +35,18 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 **Construction**:
 * SCV(workers) can construct buildings. If area was placed, they can find new spot to build.
 * Barracks, factories and starports can grows when resource are aviailable enough.
-* A bunker will be placed in front of the second in order to defend rush
-* Command center will be turned into orbital command
-* Orbital command can call mule when they get enough energy
+* A bunker will be placed in front of the second in order to defend rush.
+* Command center will be turned into orbital command.
+* Orbital command can call mule when they get enough energy.
 
 **Army**:
-* The main configuration of the main army is marines,tanks and medivc
-* Army will attack when supply reachs 180
+* The main configuration of the main army is marines,tanks and medivc/
+* Army will attack when supply reachs 180.
 * All army will be sent to a rally point(fixed).
 * The first repear can scout enemies early stages and can retreat when threat is closed.
-* Tanks will be sieged when threat is closing
-* marines will use stimpack when they get enoygh HP.
+* Tanks will be sieged when threat is closing.
+* Marines will use stimpack when they get enoygh HP.
+* Medivic will auto follow the front units and will retreat when they get attack.Healing is automatic.
 
 
 ## Future_goals:
