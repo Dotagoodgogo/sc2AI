@@ -45,7 +45,7 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 * All army will be sent to a rally point(fixed).
 * The first repear can scout enemies early stages and can retreat when threat is closed.
 <img src="https://user-images.githubusercontent.com/87624521/212524439-35c4e436-61b5-4e87-87dc-147c3f6778e8.gif" alt="gif1_description" style="display: inline-block;">
-<img src="gif2_url" alt="gif2_description" style="display: inline-block;">
+<img src="https://user-images.githubusercontent.com/87624521/212524508-9bb20e84-e83c-4844-a032-25ae1134ab6f.gif" alt="gif2_description" style="display: inline-block;">
 
 
 * Tanks will be sieged when threat is closing.
