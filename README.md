@@ -1,4 +1,4 @@
-# sc2AI
+<p align="center">SC2</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87624521/212523904-45972460-5add-4a82-b407-03a40f383894.jpg" alt="StarcraftII">
