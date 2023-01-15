@@ -22,7 +22,23 @@ The code is not easy to write due to the overly complex nature of the game. The 
 For the time being, I have not used reinforcement learning to let Bot judge various response strategies in complex situations by itself.
 
 ## Bot_in_deatils: 
-* The general strategy for the bot is expansion and accumlate resouce in early. Produing large amount of marines,tanks and medivc and depending on resouce advantage to crash enemy.
+**Strategy**:
+* The general strategy for this bot is expansion and accumlate resouce in early. Produing large amount of marines,tanks and medivc and depending on resouce advantage to crash enemy.
+* Bot will auto attack if opponent is defeated in one battle.
+
+**Construction**:
+* SCV(workers) can construct buildings. If area was placed, they can find new spot to build.
+* Barracks, factories and starports can grows when resource are aviailable enough.
+* A bunker will be placed in front of the second in order to defend rush
+* Command center will be turned into orbital command
+
+**Army**:
+* The main configuration of the main army is marines,tanks and medivc
+* The first repear can scout enemies early stages and can retreat when threat is closed.
+* Army will attack when supply reachs 180
+* All army will be sent to a rally point(fixed).
+
+
 ## Future_goals:
 I will continue to develop Bot's strategy, while reinforcement learning will be introduced. I hope I can make my own AI.
 
