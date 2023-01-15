@@ -71,7 +71,17 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
   * Defense: Building fortifications and reinforcing defensive units to hold off opponent's attacks.
 
-  Suggestions: The bot should develop more strategies to face opponents' opening starategies and should pick the optimal one to confront.
+  **Suggestions**: The bot should develop more strategies to face opponents' opening starategies and should pick the optimal one to confront.
+
+**Construction**:
+* Bot should figure out the best place itself to construct buildings. (it is really useful when bot encounter zerg race.)
+* Buildings should figure out when and how to use their abilites. some examples include:
+  * Orbital command contains mule and radar. Mule is for minerals collection and radar is for scouting and anti-cloaked.
+  * Barracks, Factories, Starports contains different tech lab and reactor labs. These buildings should exchange their add-ons in some cases.
+  * Bunkers should decide when to collect marines or release them.
+  * Each buildings should train correct units in different cases.
+* Bot should figure out what is the best ratio between factories, barracks and starports.
+* Buildings should lift up in some cases
 
 
 
