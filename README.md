@@ -44,8 +44,9 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 * Army will attack when supply reachs 180.
 * All army will be sent to a rally point(fixed).
 * The first repear can scout enemies early stages and can retreat when threat is closed.
+<img src="https://user-images.githubusercontent.com/87624521/212524439-35c4e436-61b5-4e87-87dc-147c3f6778e8.gif" alt="gif1_description" style="display: inline-block;">
+<img src="gif2_url" alt="gif2_description" style="display: inline-block;">
 
-![追](https://user-images.githubusercontent.com/87624521/212524439-35c4e436-61b5-4e87-87dc-147c3f6778e8.gif)
 
 * Tanks will be sieged when threat is closing.
 * Marines will use stimpacks when they get enough HP.
