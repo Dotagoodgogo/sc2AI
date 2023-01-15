@@ -9,7 +9,8 @@
 
 1. [Initial intentions and goals](#Initial_intentions_and_goals)
 2. [Current Phase](#Current_Phase)
-3. [Future goals](#Future_goals)
+3. [Bot in details](#Bot_in_details)
+4. [Future goals](#Future_goals)
 
 
 
@@ -20,6 +21,8 @@ Because addiction for real-time strategy games. Starcraft 2 has always been a ga
 The code is not easy to write due to the overly complex nature of the game. The current Bot can beat Very Hard StarCraft 2's own computer. But Bot temporary strategy single, mainly has been the main development. If you encounter Rush tactics. My Bot is very easy to beat.
 For the time being, I have not used reinforcement learning to let Bot judge various response strategies in complex situations by itself.
 
+## Bot_in_deatils: 
+* The general strategy for the bot is expansion and accumlate resouce in early. Produing large amount of marines,tanks and medivc and depending on resouce advantage to crash enemy.
 ## Future_goals:
 I will continue to develop Bot's strategy, while reinforcement learning will be introduced. I hope I can make my own AI.
 
