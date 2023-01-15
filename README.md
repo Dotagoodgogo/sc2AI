@@ -94,6 +94,24 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
 
      <img src="https://user-images.githubusercontent.com/87624521/212525974-29f6151f-7467-481a-a70e-e94d34490d3c.gif" alt="gif1_description" style="display: inline-block;">
+     
+     
+     
+## Conclusion:
+StarCraft II is a good game for training AI for several reasons:
+
+* Complexity: StarCraft II is a highly complex game with a large number of units, abilities and strategies. This complexity makes it a challenging environment for AI to learn and adapt in.
+
+* Real-time: StarCraft II is a real-time game, which means that actions happen in real-time, and the AI must be able to make decisions quickly and efficiently.
+
+* Imperfect information: In StarCraft II, the player does not have complete information about the state of the game, such as the location of the opponent's units. This makes it difficult for AI to make decisions based on incomplete information, which is a problem that AI also faces in the real world.
+
+* Micro-management: StarCraft II requires players to micromanage their units, which can include things like controlling the movement of individual units, managing resources, and building structures. This requires the AI to learn how to manage resources, multitask and make quick decisions
+
+* Strategic and Tactical aspects: The game includes both strategic and tactical elements, which allows for the AI to learn to plan ahead and adapt to changing situations.
+
+
+
 
  
 
