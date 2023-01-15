@@ -45,7 +45,7 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 * All army will be sent to a rally point(fixed).
 * The first repear can scout enemies early stages and can retreat when threat is closed.
 * Tanks will be sieged when threat is closing.
-* Marines will use stimpack when they get enoygh HP.
+* Marines will use stimpacks when they get enough HP.
 * Medivic will auto follow the front units and will retreat when they get attack.Healing is automatic.
 
 
