@@ -71,6 +71,9 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
   * Defense: Building fortifications and reinforcing defensive units to hold off opponent's attacks.
 
+----------
+  The bot should develop more strategies to face opponents' opening starategies and should pick the optimal one to confront.
+
 
 
 ----------
