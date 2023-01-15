@@ -59,7 +59,8 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
 
 ## Future_goals:
-I will continue to develop Bot's strategy, while reinforcement learning will be introduced. I hope I can make my own AI.
+### Some improvements
+
 
 ----------
 
