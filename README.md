@@ -34,7 +34,7 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
 **Construction**:
 * SCV(workers) can construct buildings. If area was placed, they can find new spot to build.
-* <img src="https://user-images.githubusercontent.com/87624521/212524708-fecd8d68-6e60-4dc3-a702-f71ebc92924c.gif" alt="gif1_description" style="display: inline-block;">
+<img src="https://user-images.githubusercontent.com/87624521/212524708-fecd8d68-6e60-4dc3-a702-f71ebc92924c.gif" alt="gif1_description" style="display: inline-block;">
 * Barracks, factories and starports can grows when resource are aviailable enough.
 * A bunker will be placed in front of the second in order to defend rush.
 * Command center will be turned into orbital command.
