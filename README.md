@@ -30,7 +30,7 @@ For the time being, I have not used reinforcement learning to let Bot judge vari
 
 ## Bot_in_deatils: 
 **Strategy**:
-* The general strategy for this bot is expansion and accumlate resouce in early. Produing large amount of marines,tanks and medivc and depending on resouce advantage to crash enemy.
+* The general strategy for this bot is expansion and accumlating resources in early opening. Produing large amount of marines,tanks and medivsc and depending on resource advantages to crash enemies.
 * Bot will auto attack if opponent is defeated in one battle.
 
 **Construction**:
