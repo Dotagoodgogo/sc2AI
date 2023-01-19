@@ -6,6 +6,10 @@
 </p>
 
 
+
+## Project Introduction Video
+<a href="https://youtu.be/LOzeq64PDas">Project Introduction Video</a>
+
 ## Demo_presentation
 
 <a href="https://www.youtube.com/watch?v=AA731G7x-Ak">Starcraft II Bot Presesntation on Youtube</a>
