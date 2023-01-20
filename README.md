@@ -30,7 +30,6 @@ Because addiction for real-time strategy games. Starcraft 2 has always been a ga
 
 ## Current_phase:
 The code is not easy to write due to the overly complex nature of the game. The current Bot can beat Very Hard StarCraft 2's own computer. But Bot temporary strategy single, mainly has been the main development. If you encounter Rush tactics. My Bot is very easy to beat.
-For the time being, I have not used reinforcement learning to let Bot judge various response strategies in complex situations by itself.
 
 ## Bot_in_deatils: 
 **Strategy**:
