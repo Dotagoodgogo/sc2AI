@@ -94,7 +94,7 @@ The code is not easy to write due to the overly complex nature of the game. The 
 
 
     <img src="https://user-images.githubusercontent.com/87624521/212525936-9db1b5fa-6fae-4258-ab8d-8e705f5b2711.gif" alt="gif1_description" style="display: inline-block;">
-  * Nice example I am working on:
+  * Nice example I hope to achieve:
 
 
      <img src="https://user-images.githubusercontent.com/87624521/212525974-29f6151f-7467-481a-a70e-e94d34490d3c.gif" alt="gif1_description" style="display: inline-block;">
